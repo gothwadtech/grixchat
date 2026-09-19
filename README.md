@@ -1,4 +1,4 @@
-# 🌌 GrixChat — Secure Social & Real-Time Messaging Platform
+# GrixChat — Secure Social & Real-Time Messaging Platform
 
 GrixChat is a ultra-modern, high-performance messaging, private calling, and short-form video application designed for lightning-fast speeds and low-cost scalability. Delivering a hybrid visual experience—blending **60% unique Dark Cosmic identity**, **20% Telegram performance micro-animations**, and **20% WhatsApp communication mechanics**—it runs perfectly as a PWA and Google Play TWA.
 
